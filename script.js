@@ -1,0 +1,1 @@
+console.log("Im the second javascript file in here",user_email)
