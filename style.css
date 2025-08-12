@@ -11,9 +11,9 @@ body{
     margin:0 auto;
 }
 
-.main-title{
+#main-title{
     font-size: 34px;
-    font-weight:700px;
+    font-weight:700;
     background-color: aqua;
     text-align: center;
     padding: 20px;

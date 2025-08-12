@@ -53,7 +53,7 @@ console.log("LOG:",myFunction());
 //leet ekedi value eka change karanna puluwn
 
 //Conditional Block
-if(True){
+if(true){
     let message2 = "I'm blocked-scoped variable"
     var message =" 123 "
     console.log("IF :",message2)
